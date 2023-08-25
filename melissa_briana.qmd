@@ -11,3 +11,7 @@ hi
 ```{r}
 # how's your day?
 ```
+
+```{r}
+things are happening
+```
